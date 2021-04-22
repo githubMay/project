@@ -13,6 +13,7 @@ public class StaticTest {
         }
         int n=Employee.getNextId();
         System.out.println("Next available id=是吗？"+n);
+        System.out.println();
     }
 }
 
